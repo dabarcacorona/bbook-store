@@ -1,0 +1,8 @@
+com\jadm\scheduler\ScheduledTasks.class
+com\jadm\model\JsonDet.class
+com\jadm\JadmBbokTiendaApplication.class
+com\jadm\service\BbookService.class
+com\jadm\model\JsonCab.class
+com\jadm\repository\BbookEnvioTdaRepository.class
+com\jadm\model\BbookEnvioTda.class
+com\jadm\utilities\HttpUtilities.class
